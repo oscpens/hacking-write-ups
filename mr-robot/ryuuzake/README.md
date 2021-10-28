@@ -160,7 +160,7 @@ Akan kita coba command berikut
 nmap --interactive
 ```
 
-![Nmap Interactive Screenshot](./mr-robot-16.jpg)
+![Nmap Interactive Screenshot](./mr-robot-17.jpg)
 
 Akhirnya kita mendapatkan root. Kita juga berhasil menemukan key terakhir dari *hacking challenge* ini.
 
